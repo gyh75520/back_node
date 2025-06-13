@@ -1,2 +1,2 @@
 # back_node
-qx 节点
+代理节点
